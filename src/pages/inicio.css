@@ -1,0 +1,48 @@
+.Inicio {
+    text-align: center;
+    padding: 3rem 1rem;
+    background: linear-gradient(135deg, #e8dddd, #dad1d1);
+  }
+  
+  .titu {
+    font-size: 2.5rem;
+    color: #ffcc00;
+    text-shadow: 2px 2px #605c5c;
+    
+  }
+  
+  .para{
+    margin: 0;
+    padding: 20px 0;
+    color: #cfe63c;
+    border: 3px solid #353225;
+    text-shadow: 3px 3px 1px black;
+    text-align:center;
+    font-style:italic;
+  }
+  
+  .galleyq {
+    margin-top: 2rem;
+    border: 5px solid #ffcc00;
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+    float:left;
+    
+  }
+  .parrafo {
+    margin: 0;
+    padding: 20px 0;
+    color: #cfe63c;
+    border: 3px solid #353225;
+    text-shadow: 3px 3px 1px black;
+    text-align:center;
+    font-style:italic;
+  }
+  footer {
+    background-color: #ffcc00; /* Fondo oscuro */
+    color: rgb(10, 9, 9); /* Texto en blanco */
+    text-align: center; /* Centrar texto */
+    padding: 20px 0; /* Espaciado */
+  }
+  

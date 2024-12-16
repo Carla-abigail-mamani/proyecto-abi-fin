@@ -1,0 +1,14 @@
+/* Reset básico */
+* {
+  margin: 2;
+  padding: 2;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #0f0e0e; /* Fondo negro */
+  color: #d6f3476d; /* Texto amarillento*/
+  position: relative;
+  line-height: 1.6;
+}
